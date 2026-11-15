@@ -1,0 +1,8 @@
+{
+  "name": "JEMARI IGD RANAP - PUSKESMAS WANAREJA II",
+  "description": "Sistem Jejak Elektronik Masuk dan Registrasi IGD & Rawat Inap (JEMARI IGD RANAP) PUSKESMAS WANAREJA II. Formulir registrasi pasien, buku register resmi, rekap perawatan rawat inap, dan dashboard rekapitulasi semua komponen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
